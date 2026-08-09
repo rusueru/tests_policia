@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tema 16 · Tests Policía Local</title><link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body><main class="shell">
+<header class="hero">
+  <p class="eyebrow">POLICÍA LOCAL · COMUNITAT VALENCIANA</p>
+  <h1>Tema 16</h1>
+  <p class="hero-copy">Violencia doméstica y de género · Infracciones penales · Medidas para la protección de las víctimas · Fundamentos básicos de la LO 1/2004</p>
+</header>
+
+<section class="topic-grid">
+  <article class="topic-card">
+    <div class="topic-number">Test 1</div>
+    <h2>Test completo</h2>
+    <p>44 preguntas · Violencia de género y doméstica · Arts. 153, 171, 172 y 173 · Orden de protección · LO 1/2004 · Protocolo Cero · Repetición de fallos</p>
+    <div class="topic-progress" id="test01-progress">Sin progreso guardado</div>
+    <a class="primary-link" href="../../test.html?tema=16&test=01">Entrar al test</a>
+  </article>
+
+  <article class="topic-card disabled-card">
+    <div class="topic-number">Próximamente</div>
+    <h2>Más tests</h2>
+    <p>Aquí podremos añadir test02, test03 y los que necesitemos manteniendo el mismo motor y sistema de progreso.</p>
+  </article>
+</section>
+
+<p style="margin-top:24px">
+  <a class="back-link" href="../../index.html">← Volver al listado de temas</a>
+</p>
+
+</main>
+
+<script src="../../js/progreso.js"></script>
+<script>
+try {
+  const p = TestProgress.get("16_01");
+  const el = document.getElementById("test01-progress");
+  if (p && p.total) {
+    el.textContent = `${p.mastered.length}/${p.total} dominadas · ${p.fails} fallos acumulados`;
+  }
+} catch (e) {}
+</script>
+</body>
+</html>

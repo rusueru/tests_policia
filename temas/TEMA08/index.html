@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tema 8 · Tests Policía Local</title>
+<link rel="stylesheet" href="../../css/styles.css">
+</head>
+<body>
+<main class="shell">
+
+<header class="hero">
+  <p class="eyebrow">POLICÍA LOCAL · COMUNITAT VALENCIANA</p>
+  <h1>Tema 8</h1>
+  <p class="hero-copy">El Estatuto de Autonomía de la Comunitat Valenciana · La Generalitat · Les Corts · El President · El Consell · Instituciones y competencias</p>
+</header>
+
+<section class="topic-grid">
+
+  <article class="topic-card">
+    <div class="topic-number">Test 1</div>
+    <h2>Test completo</h2>
+    <p>Estatuto de Autonomía · LO 1/2006 · Estructura · Les Corts · Instituciones · Artículos · Cifras · Mayorías · Trampas de examen</p>
+    <div class="topic-progress" id="test01-progress">Sin progreso guardado</div>
+    <a class="primary-link" href="../../test.html?tema=08&test=01">Entrar al test</a>
+  </article>
+
+  <article class="topic-card disabled-card">
+    <div class="topic-number">Próximamente</div>
+    <h2>Más tests</h2>
+    <p>Aquí podremos añadir test02, test03 y los que necesitemos manteniendo el mismo sistema de estudio.</p>
+  </article>
+
+</section>
+
+<p style="margin-top:24px">
+  <a class="back-link" href="../../index.html">← Volver al listado de temas</a>
+</p>
+
+</main>
+
+<script src="../../js/progreso.js"></script>
+<script>
+try {
+  const p = TestProgress.get("08_01");
+  const el = document.getElementById("test01-progress");
+
+  if (p && p.total) {
+    el.textContent = `${p.mastered.length}/${p.total} dominadas · ${p.fails} fallos acumulados`;
+  }
+} catch (e) {}
+</script>
+
+</body>
+</html>
