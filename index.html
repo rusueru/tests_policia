@@ -7,17 +7,39 @@
 <body><main class="shell">
 <header class="hero"><p class="eyebrow">POLICÍA LOCAL · COMUNITAT VALENCIANA</p><h1>Tests de estudio</h1>
 <p class="hero-copy">Selecciona un tema para practicar. Las preguntas falladas vuelven al final de la cola hasta que se aciertan.</p></header>
-<section class="topic-grid">
-<article class="topic-card"><div class="topic-number">Tema 5</div>
-<h2>Poder Judicial y Tribunal Constitucional</h2>
-<p>Trampas del tribunal · Datos clave · Repetición de fallos</p>
-<div class="topic-progress" id="tema05-progress">Sin progreso guardado</div>
-<a class="primary-link" href="temas/tema05/index.html">Entrar al Tema 5</a></article>
-<article class="topic-card disabled-card"><div class="topic-number">Próximamente</div><h2>Más temas</h2>
-<p>Los iremos añadiendo manteniendo el mismo motor y sistema de progreso.</p></article>
-</section></main>
-<script src="js/progreso.js"></script>
+<section class="topic-grid" id="topic-grid"></section></main>
 <script>
-const p=TestProgress.get("05"),el=document.getElementById("tema05-progress");
-if(p&&p.total) el.textContent=`${p.mastered.length}/${p.total} dominadas · ${p.fails} fallos acumulados`;
+const temas = Array.from({ length: 40 }, (_, i) => i + 1);
+
+const nombres = {
+  5: "El Poder Judicial · El Tribunal Constitucional",
+  12: "Del homicidio y sus formas · De las lesiones · Delitos contra la libertad · Torturas e integridad moral"
+};
+
+const grid = document.getElementById("topic-grid");
+
+temas.forEach(numero => {
+  const nn = String(numero).padStart(2, "0");
+  const disponible = Object.prototype.hasOwnProperty.call(nombres, numero);
+  const nombre = nombres[numero] || `Tema ${numero}`;
+
+  const card = document.createElement("article");
+  card.className = disponible ? "topic-card" : "topic-card disabled-card";
+
+  if (disponible) {
+    card.innerHTML = `
+      <div class="topic-number">Tema ${numero}</div>
+      <h2>${nombre}</h2>
+      <a class="primary-link" href="temas/tema${nn}/index.html">Entrar al Tema ${numero}</a>
+    `;
+  } else {
+    card.innerHTML = `
+      <div class="topic-number">Tema ${numero}</div>
+      <h2>${nombre}</h2>
+      <p>Pendiente de añadir</p>
+    `;
+  }
+
+  grid.appendChild(card);
+});
 </script></body></html>
