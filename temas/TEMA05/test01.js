@@ -14,7 +14,7 @@ window.TEST_THEME = {
         "Título IX"
       ],
       "a": 1,
-      "e": "El Poder Judicial se regula en el Título VI de la CE, arts. 117 a 127. El Tribunal Constitucional se regula separadamente en el Título IX.",
+      "e": "El Poder Judicial se regula en el Título VI de la CE, arts. 117 a 127. El Tribunal Constitucional se regula separadamente en el Título IX.<br><br><b>⚠️ Ojo con la trampa:</b> El Poder Judicial se regula en el Título VI de la CE, arts. 117 a 127. El Tribunal Constitucional se regula separadamente en el Título IX.",
       "src": "Tema 5, págs. 2-3",
       "tag": "TRAMPA"
     },
@@ -27,7 +27,7 @@ window.TEST_THEME = {
         "Solo cuando resuelve recursos de amparo"
       ],
       "a": 2,
-      "e": "el TC no forma parte del Poder Judicial; es un órgano constitucional autónomo e independiente de éste.",
+      "e": "el TC no forma parte del Poder Judicial; es un órgano constitucional autónomo e independiente de éste.<br><br><b>⚠️ Ojo con la trampa:</b> el TC no forma parte del Poder Judicial; es un órgano constitucional autónomo e independiente de éste.",
       "src": "Tema 5, págs. 2 y 22",
       "tag": "TRAMPA"
     },
@@ -40,7 +40,7 @@ window.TEST_THEME = {
         "emana de la Constitución y se administra en nombre del pueblo"
       ],
       "a": 1,
-      "e": "Literalidad clave: «La justicia emana del pueblo y se administra en nombre del Rey». Invertir ambas expresiones es una trampa típica.",
+      "e": "Literalidad clave: «La justicia emana del pueblo y se administra en nombre del Rey». Invertir ambas expresiones es una trampa típica.<br><br><b>⚠️ Ojo con la trampa:</b> Literalidad clave: «La justicia emana del pueblo y se administra en nombre del Rey». Invertir ambas expresiones es una trampa típica.",
       "src": "Art. 117.1 CE · Tema 5, pág. 3",
       "tag": "TRAMPA"
     },
@@ -53,7 +53,7 @@ window.TEST_THEME = {
         "Responsables"
       ],
       "a": 2,
-      "e": "Las cuatro notas son: independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley. «Imparciales» es el quinto adjetivo falso utilizado habitualmente como distractor.",
+      "e": "Las cuatro notas son: independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley. «Imparciales» es el quinto adjetivo falso utilizado habitualmente como distractor.<br><br><b>⚠️ Ojo con la trampa:</b> Las cuatro notas son: independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley. «Imparciales» es el quinto adjetivo falso utilizado habitualmente como distractor.",
       "src": "Art. 117.1 CE · Tema 5, págs. 3-4",
       "tag": "TRAMPA"
     },
@@ -66,7 +66,7 @@ window.TEST_THEME = {
         "a la jurisprudencia del Tribunal Supremo"
       ],
       "a": 1,
-      "e": "El art. 117.1 CE dice «sometidos únicamente al imperio de la ley». Cambiarlo por «a la Constitución» es una trampa destacada en el lateral.",
+      "e": "El art. 117.1 CE dice «sometidos únicamente al imperio de la ley». Cambiarlo por «a la Constitución» es una trampa destacada en el lateral.<br><br><b>⚠️ Ojo con la trampa:</b> El art. 117.1 CE dice «sometidos únicamente al imperio de la ley». Cambiarlo por «a la Constitución» es una trampa destacada en el lateral.",
       "src": "Art. 117.1 CE · Tema 5, pág. 3",
       "tag": "TRAMPA"
     },
@@ -105,7 +105,7 @@ window.TEST_THEME = {
         "los Tribunales consuetudinarios"
       ],
       "a": 1,
-      "e": "El art. 117.6 prohíbe los Tribunales de excepción. Los Tribunales de Honor se prohíben en el art. 26 CE: son dos artículos distintos y se utilizan con frecuencia como distractores cruzados.",
+      "e": "El art. 117.6 prohíbe los Tribunales de excepción. Los Tribunales de Honor se prohíben en el art. 26 CE: son dos artículos distintos y se utilizan con frecuencia como distractores cruzados.<br><br><b>⚠️ Ojo con la trampa:</b> El art. 117.6 prohíbe los Tribunales de excepción. Los Tribunales de Honor se prohíben en el art. 26 CE: son dos artículos distintos y se utilizan con frecuencia como distractores cruzados.",
       "src": "Art. 117.6 CE · Tema 5, pág. 3",
       "tag": "TRAMPA"
     },
@@ -118,7 +118,7 @@ window.TEST_THEME = {
         "125"
       ],
       "a": 0,
-      "e": "Los Tribunales de Honor se prohíben en el art. 26 CE; los de excepción, en el art. 117.6 CE.",
+      "e": "Los Tribunales de Honor se prohíben en el art. 26 CE; los de excepción, en el art. 117.6 CE.<br><br><b>⚠️ Ojo con la trampa:</b> <b>Tribunales de Honor → art. 26 CE</b>; <b>Tribunales de excepción → art. 117.6 CE</b>. Los apuntes advierten expresamente del cruce entre ambos.",
       "src": "Tema 5, pág. 3",
       "tag": "TRAMPA"
     },
@@ -157,7 +157,7 @@ window.TEST_THEME = {
         "No"
       ],
       "a": 3,
-      "e": "El art. 12.3 LOPJ prohíbe que los tribunales superiores y el CGPJ dicten instrucciones sobre aplicación o interpretación del ordenamiento en la función jurisdiccional.",
+      "e": "El art. 12.3 LOPJ prohíbe que los tribunales superiores y el CGPJ dicten instrucciones sobre aplicación o interpretación del ordenamiento en la función jurisdiccional.<br><br><b>⚠️ Ojo con la trampa:</b> El art. 12.3 LOPJ prohíbe que los tribunales superiores y el CGPJ dicten instrucciones sobre aplicación o interpretación del ordenamiento en la función jurisdiccional.",
       "src": "Art. 12.3 LOPJ · Tema 5, pág. 4",
       "tag": "TRAMPA"
     },
@@ -183,7 +183,7 @@ window.TEST_THEME = {
         "solo si lo acuerda el juez"
       ],
       "a": 2,
-      "e": "Art. 119 CE. la gratuidad no es universal, pero sí opera en todo caso para quien acredite insuficiencia de recursos para litigar.",
+      "e": "Art. 119 CE. la gratuidad no es universal, pero sí opera en todo caso para quien acredite insuficiencia de recursos para litigar.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 119 CE. la gratuidad no es universal, pero sí opera en todo caso para quien acredite insuficiencia de recursos para litigar.",
       "src": "Art. 119 CE · Tema 5, pág. 5",
       "tag": "TRAMPA"
     },
@@ -196,7 +196,7 @@ window.TEST_THEME = {
         "privadas salvo en materia penal"
       ],
       "a": 1,
-      "e": "El art. 120.1 CE establece publicidad con las excepciones que prevean las leyes de procedimiento.",
+      "e": "El art. 120.1 CE establece publicidad con las excepciones que prevean las leyes de procedimiento.<br><br><b>⚠️ Ojo con la trampa:</b> El art. 120.1 CE establece publicidad con las excepciones que prevean las leyes de procedimiento.",
       "src": "Art. 120.1 CE · Tema 5, pág. 5",
       "tag": "TRAMPA"
     },
@@ -222,7 +222,7 @@ window.TEST_THEME = {
         "cualquier resolución desfavorable"
       ],
       "a": 2,
-      "e": "Existen dos títulos indemnizatorios: error judicial y funcionamiento anormal. El distractor suele suprimir el segundo.",
+      "e": "Existen dos títulos indemnizatorios: error judicial y funcionamiento anormal. El distractor suele suprimir el segundo.<br><br><b>⚠️ Ojo con la trampa:</b> Existen dos títulos indemnizatorios: error judicial y funcionamiento anormal. El distractor suele suprimir el segundo.",
       "src": "Art. 121 CE · Tema 5, pág. 5",
       "tag": "TRAMPA"
     },
@@ -248,7 +248,7 @@ window.TEST_THEME = {
         "no pueden asociarse profesionalmente"
       ],
       "a": 2,
-      "e": "Art. 127.1 CE: no pueden pertenecer a partidos políticos ni sindicatos mientras estén en activo; sí se prevé asociación profesional.",
+      "e": "Art. 127.1 CE: no pueden pertenecer a partidos políticos ni sindicatos mientras estén en activo; sí se prevé asociación profesional.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 127.1 CE: no pueden pertenecer a partidos políticos ni sindicatos mientras estén en activo; sí se prevé asociación profesional.",
       "src": "Art. 127.1 CE · Tema 5, pág. 6",
       "tag": "TRAMPA"
     },
@@ -300,7 +300,7 @@ window.TEST_THEME = {
         "9 años"
       ],
       "a": 2,
-      "e": "Los veinte miembros son nombrados por el Rey por un período de cinco años.",
+      "e": "Los veinte miembros son nombrados por el Rey por un período de cinco años.<br><br><b>⚠️ Ojo con la trampa:</b> Los veinte miembros son nombrados por el Rey por un período de cinco años.",
       "src": "Art. 122.3 CE · Tema 5, pág. 7",
       "tag": "TRAMPA"
     },
@@ -339,7 +339,7 @@ window.TEST_THEME = {
         "8"
       ],
       "a": 0,
-      "e": "Trampa estrella: en el CGPJ el Gobierno no propone a nadie. Los 20 vocales los designan las Cortes Generales según la articulación de la LOPJ.",
+      "e": "Trampa estrella: en el CGPJ el Gobierno no propone a nadie. Los 20 vocales los designan las Cortes Generales según la articulación de la LOPJ.<br><br><b>⚠️ Ojo con la trampa:</b> Trampa estrella: en el CGPJ el Gobierno no propone a nadie. Los 20 vocales los designan las Cortes Generales según la articulación de la LOPJ.",
       "src": "Tema 5, pág. 7",
       "tag": "TRAMPA"
     },
@@ -352,7 +352,7 @@ window.TEST_THEME = {
         "el Tribunal Constitucional"
       ],
       "a": 2,
-      "e": "Art. 563 LOPJ: la Memoria anual se remite a las Cortes Generales, no al Gobierno.",
+      "e": "Art. 563 LOPJ: la Memoria anual se remite a las Cortes Generales, no al Gobierno.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 563 LOPJ: la Memoria anual se remite a las Cortes Generales, no al Gobierno.",
       "src": "Art. 563 LOPJ · Tema 5, págs. 8-9",
       "tag": "TRAMPA"
     },
@@ -365,7 +365,7 @@ window.TEST_THEME = {
         "De Igualdad"
       ],
       "a": 2,
-      "e": "«Comisión de Nombramientos» es el intruso expresamente señalado en los apuntes. El art. 595.2 enumera seis comisiones y ésta no existe.",
+      "e": "«Comisión de Nombramientos» es el intruso expresamente señalado en los apuntes. El art. 595.2 enumera seis comisiones y ésta no existe.<br><br><b>⚠️ Ojo con la trampa:</b> «Comisión de Nombramientos» es el intruso expresamente señalado en los apuntes. El art. 595.2 enumera seis comisiones y ésta no existe.",
       "src": "Art. 595.2 LOPJ · Tema 5, pág. 9",
       "tag": "TRAMPA"
     },
@@ -417,7 +417,7 @@ window.TEST_THEME = {
         "las memorias anuales"
       ],
       "a": 1,
-      "e": "En funciones, no puede ejercer nombramientos discrecionales.",
+      "e": "En funciones, no puede ejercer nombramientos discrecionales.<br><br><b>⚠️ Ojo con la trampa:</b> En funciones, no puede ejercer nombramientos discrecionales.",
       "src": "Tema 5, págs. 8-9",
       "tag": "TRAMPA"
     },
@@ -430,7 +430,7 @@ window.TEST_THEME = {
         "salvo en el orden militar"
       ],
       "a": 2,
-      "e": "La salvedad constitucional es esencial: art. 123.1 CE, «salvo lo dispuesto en materia de garantías constitucionales». El distractor suele borrarla o cambiarla por «salvo lo militar».",
+      "e": "La salvedad constitucional es esencial: art. 123.1 CE, «salvo lo dispuesto en materia de garantías constitucionales». El distractor suele borrarla o cambiarla por «salvo lo militar».<br><br><b>⚠️ Ojo con la trampa:</b> La salvedad constitucional es esencial: art. 123.1 CE, «salvo lo dispuesto en materia de garantías constitucionales». El distractor suele borrarla o cambiarla por «salvo lo militar».",
       "src": "Art. 123.1 CE · Tema 5, pág. 11",
       "tag": "TRAMPA"
     },
@@ -456,7 +456,7 @@ window.TEST_THEME = {
         "6"
       ],
       "a": 2,
-      "e": "Tiene cinco Salas ordinarias: Civil, Penal, Contencioso-Administrativo, Social y Militar. Las Salas especiales de los arts. 42 y 61 no son una sexta Sala ordinaria.",
+      "e": "Tiene cinco Salas ordinarias: Civil, Penal, Contencioso-Administrativo, Social y Militar. Las Salas especiales de los arts. 42 y 61 no son una sexta Sala ordinaria.<br><br><b>⚠️ Ojo con la trampa:</b> TS = <b>5 Salas ordinarias</b>. Las Salas especiales de los arts. 42 y 61 LOPJ no convierten al TS en un tribunal de 6 o 7 Salas ordinarias.",
       "src": "Art. 55 LOPJ · Tema 5, págs. 11-13",
       "tag": "TRAMPA"
     },
@@ -469,7 +469,7 @@ window.TEST_THEME = {
         "Militar"
       ],
       "a": 1,
-      "e": "Secuencia: 1.ª Civil, 2.ª Penal, 3.ª Contencioso-Administrativo, 4.ª Social, 5.ª Militar. La confusión entre la 3.ª y la 4.ª es un distractor habitual.",
+      "e": "Secuencia: 1.ª Civil, 2.ª Penal, 3.ª Contencioso-Administrativo, 4.ª Social, 5.ª Militar. La confusión entre la 3.ª y la 4.ª es un distractor habitual.<br><br><b>⚠️ Ojo con la trampa:</b><br>\n1.ª Civil · 2.ª Penal · <b>3.ª Contencioso-Administrativo</b> · 4.ª Social · 5.ª Militar.<br>\nEl cruce típico es intercambiar la 3.ª y la 4.ª.",
       "src": "Art. 55 LOPJ · Tema 5, pág. 12",
       "tag": "TRAMPA"
     },
@@ -482,7 +482,7 @@ window.TEST_THEME = {
         "conflictos entre Estado y CCAA"
       ],
       "a": 1,
-      "e": "La Sala del art. 42 resuelve conflictos de competencia entre juzgados o tribunales de distinto orden jurisdiccional.",
+      "e": "La Sala del art. 42 resuelve conflictos de competencia entre juzgados o tribunales de distinto orden jurisdiccional.<br><br><b>⚠️ Ojo con la trampa:</b> La Sala del art. 42 resuelve conflictos de competencia entre juzgados o tribunales de distinto orden jurisdiccional.",
       "src": "Art. 42 LOPJ · Tema 5, pág. 12",
       "tag": "TRAMPA"
     },
@@ -508,7 +508,7 @@ window.TEST_THEME = {
         "control de reglamentos"
       ],
       "a": 1,
-      "e": "La competencia más característica de la Sala del 61 es los procesos de declaración de ilegalidad y disolución de partidos políticos.",
+      "e": "La competencia más característica de la Sala del 61 es los procesos de declaración de ilegalidad y disolución de partidos políticos.<br><br><b>⚠️ Ojo con la trampa:</b> La competencia más característica de la Sala del 61 es los procesos de declaración de ilegalidad y disolución de partidos políticos.",
       "src": "Art. 61 LOPJ · Tema 5, pág. 13",
       "tag": "TRAMPA"
     },
@@ -534,7 +534,7 @@ window.TEST_THEME = {
         "Partidos, comarcas, provincias y CCAA"
       ],
       "a": 1,
-      "e": "Art. 30 LOPJ: Municipios, Partidos, Provincias y Comunidades Autónomas. «Comarcas» e «islas» son distractores señalados en el lateral.",
+      "e": "Art. 30 LOPJ: Municipios, Partidos, Provincias y Comunidades Autónomas. «Comarcas» e «islas» son distractores señalados en el lateral.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 30 LOPJ: Municipios, Partidos, Provincias y Comunidades Autónomas. «Comarcas» e «islas» son distractores señalados en el lateral.",
       "src": "Art. 30 LOPJ · Tema 5, pág. 14",
       "tag": "TRAMPA"
     },
@@ -560,7 +560,7 @@ window.TEST_THEME = {
         "Se elimina el juez de paz"
       ],
       "a": 1,
-      "e": "la planta vigente sustituye los antiguos juzgados unipersonales por Tribunales de Instancia y crea el Tribunal Central de Instancia.",
+      "e": "la planta vigente sustituye los antiguos juzgados unipersonales por Tribunales de Instancia y crea el Tribunal Central de Instancia.<br><br><b>⚠️ Ojo con la trampa:</b> la planta vigente sustituye los antiguos juzgados unipersonales por Tribunales de Instancia y crea el Tribunal Central de Instancia.",
       "src": "Tema 5, pág. 15",
       "tag": "TRAMPA"
     },
@@ -625,7 +625,7 @@ window.TEST_THEME = {
         "6"
       ],
       "a": 1,
-      "e": "Tiene cuatro: Apelación, Penal, Contencioso-Administrativo y Social.",
+      "e": "Tiene cuatro: Apelación, Penal, Contencioso-Administrativo y Social.<br><br><b>⚠️ Ojo con la trampa:</b> Tiene cuatro: Apelación, Penal, Contencioso-Administrativo y Social.",
       "src": "Art. 64 LOPJ · Tema 5, pág. 16",
       "tag": "TRAMPA"
     },
@@ -638,7 +638,7 @@ window.TEST_THEME = {
         "Social"
       ],
       "a": 2,
-      "e": "La Audiencia Nacional carece de orden civil. La ausencia de Sala Civil es una trampa clásica de examen.",
+      "e": "La Audiencia Nacional carece de orden civil. La ausencia de Sala Civil es una trampa clásica de examen.<br><br><b>⚠️ Ojo con la trampa:</b> La Audiencia Nacional carece de orden civil. La ausencia de Sala Civil es una trampa clásica de examen.",
       "src": "Art. 64 LOPJ · Tema 5, págs. 16 y 18",
       "tag": "TRAMPA"
     },
@@ -664,7 +664,7 @@ window.TEST_THEME = {
         "5"
       ],
       "a": 1,
-      "e": "Tres Salas: Civil y Penal (unidas), Contencioso-Administrativo y Social.",
+      "e": "Tres Salas: Civil y Penal (unidas), Contencioso-Administrativo y Social.<br><br><b>⚠️ Ojo con la trampa:</b> Tres Salas: Civil y Penal (unidas), Contencioso-Administrativo y Social.",
       "src": "Art. 72 LOPJ · Tema 5, pág. 17",
       "tag": "TRAMPA"
     },
@@ -716,7 +716,7 @@ window.TEST_THEME = {
         "dependencia gubernamental y oportunidad"
       ],
       "a": 0,
-      "e": "Art. 124.2 CE: unidad de actuación y dependencia jerárquica; con sujeción, en todo caso, a legalidad e imparcialidad. Esta pareja de principios suele utilizarse como distractor.",
+      "e": "Art. 124.2 CE: unidad de actuación y dependencia jerárquica; con sujeción, en todo caso, a legalidad e imparcialidad. Esta pareja de principios suele utilizarse como distractor.<br><br><b>⚠️ Ojo con la trampa:</b> separa los dos pares del art. 124.2 CE: <b>unidad de actuación + dependencia jerárquica</b>; y actuación con sujeción a <b>legalidad + imparcialidad</b>.",
       "src": "Art. 124.2 CE · Tema 5, pág. 19",
       "tag": "TRAMPA"
     },
@@ -729,7 +729,7 @@ window.TEST_THEME = {
         "por las Cortes Generales"
       ],
       "a": 2,
-      "e": "Art. 124.4 CE: nombrado por el Rey, a propuesta del Gobierno, oído el CGPJ. La trampa típica cambia «oído» por «a propuesta» del CGPJ.",
+      "e": "Art. 124.4 CE: nombrado por el Rey, a propuesta del Gobierno, oído el CGPJ. La trampa típica cambia «oído» por «a propuesta» del CGPJ.<br><br><b>⚠️ Ojo con la trampa:</b> la secuencia correcta es <b>Rey → a propuesta del Gobierno → oído el CGPJ</b>. Cambiar quién propone o quién es oído convierte la opción en falsa.",
       "src": "Art. 124.4 CE · Tema 5, pág. 19",
       "tag": "TRAMPA"
     },
@@ -755,7 +755,7 @@ window.TEST_THEME = {
         "la composición del TC"
       ],
       "a": 1,
-      "e": "Regla clave: 75 bis = objeto (qué normas); 75 ter = legitimación (quién).",
+      "e": "Regla clave: 75 bis = objeto (qué normas); 75 ter = legitimación (quién).<br><br><b>⚠️ Ojo con la trampa:</b> Regla clave: 75 bis = objeto (qué normas); 75 ter = legitimación (quién).",
       "src": "Arts. 75 bis y 75 ter LOTC · Tema 5, pág. 21",
       "tag": "TRAMPA"
     },
@@ -768,7 +768,7 @@ window.TEST_THEME = {
         "1/3 de municipios y mayoría de población"
       ],
       "a": 1,
-      "e": "Art. 75 ter LOTC: un número de municipios que suponga un séptimo de los del ámbito y un sexto de la población.",
+      "e": "Art. 75 ter LOTC: un número de municipios que suponga un séptimo de los del ámbito y un sexto de la población.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 75 ter LOTC: un número de municipios que suponga un séptimo de los del ámbito y un sexto de la población.",
       "src": "Art. 75 ter LOTC · Tema 5, pág. 21",
       "tag": "TRAMPA"
     },
@@ -794,7 +794,7 @@ window.TEST_THEME = {
         "8 Cortes + 4 Gobierno"
       ],
       "a": 0,
-      "e": "Distribución clave: 4 Congreso + 4 Senado + 2 Gobierno + 2 CGPJ.",
+      "e": "Distribución clave: 4 Congreso + 4 Senado + 2 Gobierno + 2 CGPJ.<br><br><b>⚠️ Ojo con la trampa:</b> Distribución clave: 4 Congreso + 4 Senado + 2 Gobierno + 2 CGPJ.",
       "src": "Art. 159.1 CE · Tema 5, pág. 22",
       "tag": "TRAMPA"
     },
@@ -807,7 +807,7 @@ window.TEST_THEME = {
         "6 años, por mitades cada 3"
       ],
       "a": 1,
-      "e": "Art. 159.3 CE: nueve años, con renovación por terceras partes cada tres años.",
+      "e": "Art. 159.3 CE: nueve años, con renovación por terceras partes cada tres años.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 159.3 CE: nueve años, con renovación por terceras partes cada tres años.",
       "src": "Art. 159.3 CE · Tema 5, pág. 22",
       "tag": "TRAMPA"
     },
@@ -820,7 +820,7 @@ window.TEST_THEME = {
         "a propuesta del Congreso, por 9 años"
       ],
       "a": 2,
-      "e": "Art. 160 CE: nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en Pleno, por tres años. Es una trampa recurrente frente al Presidente del TS.",
+      "e": "Art. 160 CE: nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en Pleno, por tres años. Es una trampa recurrente frente al Presidente del TS.<br><br><b>⚠️ Ojo con la trampa:</b> Presidente del TC → Rey, <b>a propuesta del propio Tribunal en Pleno</b>, por 3 años. Los apuntes lo enfrentan expresamente con el sistema del Presidente del Tribunal Supremo.",
       "src": "Art. 160 CE · Tema 5, pág. 23",
       "tag": "TRAMPA"
     },
@@ -833,7 +833,7 @@ window.TEST_THEME = {
         "2 Salas de 5"
       ],
       "a": 0,
-      "e": "Art. 7 LOTC: dos Salas de seis magistrados cada una.",
+      "e": "Art. 7 LOTC: dos Salas de seis magistrados cada una.<br><br><b>⚠️ Ojo con la trampa:</b> TC = <b>2 Salas de 6 magistrados</b>. No confundir las Salas con las Secciones: las Secciones se componen de Presidente + 2 magistrados.",
       "src": "Art. 7 LOTC · Tema 5, pág. 23",
       "tag": "CLAVE"
     },
@@ -846,7 +846,7 @@ window.TEST_THEME = {
         "todos los magistrados"
       ],
       "a": 1,
-      "e": "Art. 8 LOTC: las Secciones se componen de Presidente + dos magistrados y deciden la admisión.",
+      "e": "Art. 8 LOTC: las Secciones se componen de Presidente + dos magistrados y deciden la admisión.<br><br><b>⚠️ Ojo con la trampa:</b> <b>Sección = Presidente + 2 magistrados</b>; <b>Sala = 6 magistrados</b>. Son estructuras distintas dentro del TC.",
       "src": "Art. 8 LOTC · Tema 5, pág. 23",
       "tag": "CLAVE"
     },
@@ -859,7 +859,7 @@ window.TEST_THEME = {
         "votación pública → mayoría absoluta → antigüedad"
       ],
       "a": 1,
-      "e": "Art. 9 LOTC: votación secreta; primera votación mayoría absoluta; después más votos; empate: antigüedad y luego edad.",
+      "e": "Art. 9 LOTC: votación secreta; primera votación mayoría absoluta; después más votos; empate: antigüedad y luego edad.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 9 LOTC: votación secreta; primera votación mayoría absoluta; después más votos; empate: antigüedad y luego edad.",
       "src": "Art. 9 LOTC · Tema 5, págs. 23-24",
       "tag": "TRAMPA"
     },
@@ -872,7 +872,7 @@ window.TEST_THEME = {
         "Conflictos de competencia Estado-CCAA"
       ],
       "a": 2,
-      "e": "Los apuntes advierten que «recurso de casación» es jurisdicción ordinaria, no una atribución del TC.",
+      "e": "Los apuntes advierten que «recurso de casación» es jurisdicción ordinaria, no una atribución del TC.<br><br><b>⚠️ Ojo con la trampa:</b> el <b>recurso de casación</b> pertenece a la jurisdicción ordinaria; no es una competencia del TC. El TC conoce, entre otras materias, de inconstitucionalidad, amparo y conflictos constitucionales.",
       "src": "Arts. 161 CE y 2 LOTC · Tema 5, págs. 24-25",
       "tag": "TRAMPA"
     },
@@ -898,7 +898,7 @@ window.TEST_THEME = {
         "Ministerio Fiscal exclusivamente"
       ],
       "a": 2,
-      "e": "Art. 162.1.a CE: sujetos políticos tasados. El particular no interpone recurso de inconstitucionalidad.",
+      "e": "Art. 162.1.a CE: sujetos políticos tasados. El particular no interpone recurso de inconstitucionalidad.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 162.1.a CE: sujetos políticos tasados. El particular no interpone recurso de inconstitucionalidad.",
       "src": "Art. 162.1.a CE · Tema 5, pág. 25",
       "tag": "TRAMPA"
     },
@@ -911,7 +911,7 @@ window.TEST_THEME = {
         "50 Diputados"
       ],
       "a": 2,
-      "e": "Arts. 163 CE y 35 LOTC: la plantea un Juez o Tribunal; las partes no la interponen directamente.",
+      "e": "Arts. 163 CE y 35 LOTC: la plantea un Juez o Tribunal; las partes no la interponen directamente.<br><br><b>⚠️ Ojo con la trampa:</b> Arts. 163 CE y 35 LOTC: la plantea un Juez o Tribunal; las partes no la interponen directamente.",
       "src": "Art. 163 CE / 35 LOTC · Tema 5, págs. 25-26",
       "tag": "TRAMPA"
     },
@@ -937,7 +937,7 @@ window.TEST_THEME = {
         "12 meses"
       ],
       "a": 2,
-      "e": "No deben confundirse los plazos: 3 meses en general / 9 meses con Comisión Bilateral.",
+      "e": "No deben confundirse los plazos: 3 meses en general / 9 meses con Comisión Bilateral.<br><br><b>⚠️ Ojo con la trampa:</b> No deben confundirse los plazos: 3 meses en general / 9 meses con Comisión Bilateral.",
       "src": "Art. 33.2 LOTC · Tema 5, pág. 25",
       "tag": "TRAMPA"
     },
@@ -950,7 +950,7 @@ window.TEST_THEME = {
         "30 días"
       ],
       "a": 1,
-      "e": "Art. 35 LOTC: audiencia previa a las partes y al Ministerio Fiscal por diez días.",
+      "e": "Art. 35 LOTC: audiencia previa a las partes y al Ministerio Fiscal por diez días.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 35 LOTC: audiencia previa a las partes y al Ministerio Fiscal por diez días.",
       "src": "Art. 35 LOTC · Tema 5, pág. 25",
       "tag": "TRAMPA"
     },
@@ -989,7 +989,7 @@ window.TEST_THEME = {
         "9 meses"
       ],
       "a": 2,
-      "e": "Art. 42 LOTC: tres meses.",
+      "e": "Art. 42 LOTC: tres meses.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 42 LOTC: tres meses.",
       "src": "Art. 42 LOTC · Tema 5, pág. 26",
       "tag": "TRAMPA"
     },
@@ -1002,7 +1002,7 @@ window.TEST_THEME = {
         "3 meses"
       ],
       "a": 1,
-      "e": "Art. 43.2 LOTC: veinte días, una vez agotada la vía judicial.",
+      "e": "Art. 43.2 LOTC: veinte días, una vez agotada la vía judicial.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 43.2 LOTC: veinte días, una vez agotada la vía judicial.",
       "src": "Art. 43.2 LOTC · Tema 5, pág. 26",
       "tag": "TRAMPA"
     },
@@ -1015,7 +1015,7 @@ window.TEST_THEME = {
         "5 meses"
       ],
       "a": 1,
-      "e": "Art. 44.2 LOTC: treinta días.",
+      "e": "Art. 44.2 LOTC: treinta días.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 44.2 LOTC: treinta días.",
       "src": "Art. 44.2 LOTC · Tema 5, pág. 26",
       "tag": "TRAMPA"
     },
@@ -1028,7 +1028,7 @@ window.TEST_THEME = {
         "cuestión de inconstitucionalidad"
       ],
       "a": 2,
-      "e": "el ciudadano accede al TC por amparo; no interpone directamente recurso ni cuestión de inconstitucionalidad.",
+      "e": "el ciudadano accede al TC por amparo; no interpone directamente recurso ni cuestión de inconstitucionalidad.<br><br><b>⚠️ Ojo con la trampa:</b> el ciudadano accede al TC por amparo; no interpone directamente recurso ni cuestión de inconstitucionalidad.",
       "src": "Tema 5, págs. 25-27",
       "tag": "TRAMPA"
     },
@@ -1041,7 +1041,7 @@ window.TEST_THEME = {
         "cabe amparo"
       ],
       "a": 2,
-      "e": "Art. 164.1 CE: tienen valor de cosa juzgada desde el día siguiente de su publicación y no cabe recurso alguno contra ellas.",
+      "e": "Art. 164.1 CE: tienen valor de cosa juzgada desde el día siguiente de su publicación y no cabe recurso alguno contra ellas.<br><br><b>⚠️ Ojo con la trampa:</b> Art. 164.1 CE: tienen valor de cosa juzgada desde el día siguiente de su publicación y no cabe recurso alguno contra ellas.",
       "src": "Art. 164.1 CE · Tema 5, pág. 27",
       "tag": "TRAMPA"
     },
@@ -1067,7 +1067,7 @@ window.TEST_THEME = {
         "TS 5 · AN 4 · TSJ 2 · TC 3"
       ],
       "a": 0,
-      "e": "Cuadro de trampas: Tribunal Supremo 5, Audiencia Nacional 4 (sin civil), TSJ 3, Tribunal Constitucional 2.",
+      "e": "Cuadro de trampas: Tribunal Supremo 5, Audiencia Nacional 4 (sin civil), TSJ 3, Tribunal Constitucional 2.<br><br><b>⚠️ Ojo con la trampa global:</b> <b>TS 5 · AN 4 · TSJ 3 · TC 2</b>. Esta secuencia permite repasar cuatro órganos con una sola pregunta.",
       "src": "Tema 5, págs. 23, 28-29",
       "tag": "TRAMPA"
     },
@@ -1080,7 +1080,7 @@ window.TEST_THEME = {
         "CGPJ 3; TC 9; Presidente TC 5"
       ],
       "a": 1,
-      "e": "Trampa global del tema: CGPJ 5 años; magistrados del TC 9 años (tercios cada 3); Presidente del TC 3 años.",
+      "e": "Trampa global del tema: CGPJ 5 años; magistrados del TC 9 años (tercios cada 3); Presidente del TC 3 años.<br><br><b>⚠️ Ojo con la trampa global:</b> <b>CGPJ 5 años · magistrados TC 9 años · Presidente TC 3 años</b>. En el TC, además, la renovación es por terceras partes cada 3 años.",
       "src": "Tema 5, págs. 28-29",
       "tag": "TRAMPA"
     },
@@ -1093,7 +1093,7 @@ window.TEST_THEME = {
         "la Audiencia Nacional"
       ],
       "a": 0,
-      "e": "En el TC el Gobierno propone 2 de los 12 magistrados. En el CGPJ, en cambio, el Gobierno no propone ningún vocal.",
+      "e": "En el TC el Gobierno propone 2 de los 12 magistrados. En el CGPJ, en cambio, el Gobierno no propone ningún vocal.<br><br><b>⚠️ Ojo con la trampa:</b> en el <b>TC</b>, el Gobierno propone 2 magistrados. En el <b>CGPJ</b>, el Gobierno no propone vocales. No traslades el sistema de designación de un órgano al otro.",
       "src": "Art. 159.1 CE · Tema 5, págs. 22 y 28",
       "tag": "TRAMPA"
     },
@@ -1132,7 +1132,7 @@ window.TEST_THEME = {
         "Ley Orgánica 1/1985, de 1 de julio, del Poder Judicial"
       ],
       "a": 0,
-      "e": "La norma es la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.",
+      "e": "La norma es la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.<br><br><b>⚠️ Ojo con la trampa:</b> LOPJ = <b>LO 6/1985, de 1 de julio</b>. No mezclarla con la LOTC: <b>LO 2/1979, de 3 de octubre</b>.",
       "src": "LO 6/1985, de 1 de julio, del Poder Judicial",
       "tag": "CLAVE"
     },
@@ -1145,7 +1145,7 @@ window.TEST_THEME = {
         "Arts. 159 a 165"
       ],
       "a": 1,
-      "e": "El Título VI de la Constitución regula el Poder Judicial y comprende los artículos 117 a 127.",
+      "e": "El Título VI de la Constitución regula el Poder Judicial y comprende los artículos 117 a 127.<br><br><b>⚠️ Ojo con la trampa:</b> Título VI = <b>arts. 117 a 127 CE</b> (Poder Judicial). No confundir con el Título IX, que comprende los arts. 159 a 165 y regula el Tribunal Constitucional.",
       "src": "Constitución Española · Título VI",
       "tag": "CLAVE"
     },
@@ -1158,7 +1158,7 @@ window.TEST_THEME = {
         "Arts. 166 a 169"
       ],
       "a": 2,
-      "e": "El Título IX de la Constitución regula el Tribunal Constitucional y comprende los artículos 159 a 165.",
+      "e": "El Título IX de la Constitución regula el Tribunal Constitucional y comprende los artículos 159 a 165.<br><br><b>⚠️ Ojo con la trampa:</b> Título IX = <b>arts. 159 a 165 CE</b> (Tribunal Constitucional). El Título VI, Poder Judicial, comprende los arts. 117 a 127.",
       "src": "Constitución Española · Título IX",
       "tag": "CLAVE"
     },
@@ -1171,7 +1171,7 @@ window.TEST_THEME = {
         "Art. 127"
       ],
       "a": 2,
-      "e": "El artículo 126 CE regula la Policía Judicial y su dependencia de Jueces, Tribunales y Ministerio Fiscal en las funciones previstas constitucionalmente.",
+      "e": "El artículo 126 CE regula la Policía Judicial y su dependencia de Jueces, Tribunales y Ministerio Fiscal en las funciones previstas constitucionalmente.<br><br><b>⚠️ Ojo con la trampa:</b><br>\nArt. 124 CE → Ministerio Fiscal.<br>\nArt. 125 CE → acción popular, Jurado y tribunales consuetudinarios y tradicionales.<br>\nArt. 126 CE → Policía Judicial.<br>\nArt. 127 CE → incompatibilidades de jueces, magistrados y fiscales y prohibición de pertenecer a partidos o sindicatos mientras estén en activo.",
       "src": "Art. 126 CE",
       "tag": "CLAVE"
     },
@@ -1184,7 +1184,7 @@ window.TEST_THEME = {
         "Art. 124"
       ],
       "a": 1,
-      "e": "El Consejo General del Poder Judicial se regula en el artículo 122 CE.",
+      "e": "El Consejo General del Poder Judicial se regula en el artículo 122 CE.<br><br><b>⚠️ Ojo con la trampa:</b><br>\nArt. 121 CE → indemnización por error judicial o funcionamiento anormal de la Administración de Justicia.<br>\nArt. 122 CE → CGPJ.<br>\nArt. 123 CE → Tribunal Supremo.<br>\nArt. 124 CE → Ministerio Fiscal.",
       "src": "Art. 122 CE",
       "tag": "CLAVE"
     },
@@ -1197,7 +1197,7 @@ window.TEST_THEME = {
         "Art. 125"
       ],
       "a": 1,
-      "e": "El Tribunal Supremo se regula en el artículo 123 CE.",
+      "e": "El Tribunal Supremo se regula en el artículo 123 CE.<br><br><b>⚠️ Ojo con la trampa:</b><br>\nArt. 122 CE → CGPJ.<br>\nArt. 123 CE → Tribunal Supremo.<br>\nArt. 124 CE → Ministerio Fiscal.<br>\nArt. 125 CE → acción popular, Jurado y tribunales consuetudinarios y tradicionales.",
       "src": "Art. 123 CE",
       "tag": "CLAVE"
     },
@@ -1210,7 +1210,7 @@ window.TEST_THEME = {
         "Art. 126"
       ],
       "a": 1,
-      "e": "El Ministerio Fiscal se regula en el artículo 124 CE.",
+      "e": "El Ministerio Fiscal se regula en el artículo 124 CE.<br><br><b>⚠️ Ojo con la trampa:</b><br>\nArt. 123 CE → Tribunal Supremo.<br>\nArt. 124 CE → Ministerio Fiscal.<br>\nArt. 125 CE → acción popular, Jurado y tribunales consuetudinarios y tradicionales.<br>\nArt. 126 CE → Policía Judicial.<br>\n<b>Regla rápida:</b> 123 Supremo → 124 Fiscal → 125 participación → 126 Policía Judicial.",
       "src": "Art. 124 CE",
       "tag": "CLAVE"
     },
@@ -1223,7 +1223,7 @@ window.TEST_THEME = {
         "Art. 127"
       ],
       "a": 1,
-      "e": "El artículo 125 CE regula la acción popular y la participación ciudadana en la Administración de Justicia mediante el Jurado, además de los tribunales consuetudinarios y tradicionales.",
+      "e": "El artículo 125 CE regula la acción popular y la participación ciudadana en la Administración de Justicia mediante el Jurado, además de los tribunales consuetudinarios y tradicionales.<br><br><b>⚠️ Ojo con la trampa:</b><br>\nArt. 124 CE → Ministerio Fiscal.<br>\nArt. 125 CE → acción popular, Jurado y tribunales consuetudinarios y tradicionales.<br>\nArt. 126 CE → Policía Judicial.<br>\nArt. 127 CE → incompatibilidades y prohibiciones de jueces, magistrados y fiscales.",
       "src": "Art. 125 CE",
       "tag": "CLAVE"
     },
@@ -1236,7 +1236,7 @@ window.TEST_THEME = {
         "Ley Orgánica 1/1979, de 26 de septiembre"
       ],
       "a": 1,
-      "e": "El Tribunal Constitucional se regula por la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, que desarrolla el Título IX de la Constitución.",
+      "e": "El Tribunal Constitucional se regula por la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, que desarrolla el Título IX de la Constitución.<br><br><b>⚠️ Ojo con la trampa:</b> Tribunal Constitucional → <b>LO 2/1979, de 3 de octubre (LOTC)</b>. Poder Judicial → <b>LO 6/1985, de 1 de julio (LOPJ)</b>.",
       "src": "LO 2/1979, de 3 de octubre, del Tribunal Constitucional",
       "tag": "CLAVE"
     },
@@ -1249,7 +1249,7 @@ window.TEST_THEME = {
         "Art. 162"
       ],
       "a": 0,
-      "e": "El artículo 159 CE regula la composición del Tribunal Constitucional, incluida la designación de sus 12 miembros.",
+      "e": "El artículo 159 CE regula la composición del Tribunal Constitucional, incluida la designación de sus 12 miembros.<br><br><b>⚠️ Ojo con la trampa:</b> el art. <b>159 CE</b> abre el Título IX y regula la composición del TC. El art. 160 se refiere a su Presidente y el 161 a sus competencias.",
       "src": "Art. 159 CE",
       "tag": "CLAVE"
     },
@@ -1262,7 +1262,7 @@ window.TEST_THEME = {
         "Art. 159 CE"
       ],
       "a": 1,
-      "e": "El artículo 53.2 CE establece la tutela de los derechos del artículo 14 y de la Sección 1.ª del Capítulo II ante los tribunales ordinarios y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional; también se aplica a la objeción de conciencia del art. 30 en los términos constitucionales.",
+      "e": "El artículo 53.2 CE establece la tutela de los derechos del artículo 14 y de la Sección 1.ª del Capítulo II ante los tribunales ordinarios y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional; también se aplica a la objeción de conciencia del art. 30 en los términos constitucionales.<br><br><b>⚠️ Ojo con la trampa:</b> <b>art. 53.2 CE</b> = tutela y recurso de amparo. No confundirlo con los arts. 159 y siguientes, que regulan orgánicamente el Tribunal Constitucional.",
       "src": "Art. 53.2 CE",
       "tag": "CLAVE"
     }
