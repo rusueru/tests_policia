@@ -1,18 +1,18 @@
 (function(){
-const params=new URLSearchParams(location.search),theme=params.get("tema")||"05";
+const params=new URLSearchParams(location.search),theme=params.get("tema")||"05",test=params.get("test")||"01";
 const root=document.getElementById("test-root"),resetBtn=document.getElementById("reset-btn");
-const script=document.createElement("script");script.src=`temas/tema${theme}.js`;script.onload=init;
+const script=document.createElement("script");script.src=`temas/tema${theme}/test${test}.js`;script.onload=init;
 script.onerror=()=>root.innerHTML=`<div class="card"><h2>Tema no disponible</h2><p>No se ha encontrado el archivo del Tema ${theme}.</p></div>`;
 document.head.appendChild(script);
 
 function init(){
  if(!window.TEST_THEME||!Array.isArray(TEST_THEME.questions)){root.innerHTML=`<div class="card"><h2>Error de carga</h2></div>`;return}
- const bank=TEST_THEME.questions;let state=TestProgress.get(theme);
+ const bank=TEST_THEME.questions;const progressKey=`${theme}_${test}`;let state=TestProgress.get(progressKey);
  if(!state||state.total!==bank.length) state={total:bank.length,queue:shuffle(bank.map((_,i)=>i)),mastered:[],fails:0,attempts:0};
  let mastered=new Set(state.mastered||[]),queue=Array.isArray(state.queue)?state.queue.slice():[],current=null,locked=false;
  function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
- function save(){state.queue=queue;state.mastered=[...mastered];TestProgress.set(theme,state)}
- resetBtn.onclick=()=>{if(confirm("¿Reiniciar completamente el progreso de este tema?")){TestProgress.clear(theme);location.reload()}};
+ function save(){state.queue=queue;state.mastered=[...mastered];TestProgress.set(progressKey,state)}
+ resetBtn.onclick=()=>{if(confirm("¿Reiniciar completamente el progreso de este tema?")){TestProgress.clear(progressKey);location.reload()}};
  function statsHTML(){return `<div class="stats"><span class="pill">Pendientes: ${bank.length-mastered.size}/${bank.length}</span><span class="pill">Dominadas: ${mastered.size}</span><span class="pill">Fallos: ${state.fails}</span></div>`}
  function render(){
   if(mastered.size===bank.length){save();root.innerHTML=`<div class="test-head"><div><h1>${TEST_THEME.title}</h1><div class="subtitle">${TEST_THEME.subtitle}</div></div>${statsHTML()}</div><div class="progress"><div class="bar" style="width:100%"></div></div><div class="card end"><h2>✅ Tema completado</h2><p>Has contestado correctamente las ${bank.length} preguntas. Ninguna pregunta fallada ha quedado sin recuperar.</p><p><b>Intentos:</b> ${state.attempts} · <b>Fallos:</b> ${state.fails}</p></div>`;return}
